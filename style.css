@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+h1.logo {
+  color: white;
+  font-family: Helvetica;
+  margin-left: 20px;
+  float: left;
+}
+
+.topnav {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: Helvetica;
+  margin-top: 12px;
+}
+
+.hero h1 {
+  background-color: black;
+  padding: 120px;
+  margin: 0;
+  color: yellow;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 75px;
+}
+
+.outer-div
+{
+     padding: 30px;
+     text-align: center;
+}
+.inner-div
+{
+     display: inline-block;
+}
+
+.inner-div img {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+p.bodyCopy {
+  float: left;
+  width: 60%;
+  text-align: left;
+  width: 500px;
+  font-family: sans-serif;
+}
+
+footer {
+  height: 50px;
+  background-color: plum;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
